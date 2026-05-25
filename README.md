@@ -30,4 +30,4 @@ SafeGuard is an Android-based personal safety and emergency response application
 - 🚗 Smart Ride Sharing — Log driver name, vehicle number, and destination before a ride
 - 📢 Community Alert — Broadcast safety messages to your trusted network
 - 👤 **User Profile** — Store personal, medical, address, and profession details
-- 🔒 **PIN Authentication** — 4-digit PI
+- 🔒 **PIN Authentication** — 4-digit PIN
