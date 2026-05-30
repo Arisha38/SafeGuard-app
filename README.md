@@ -135,6 +135,6 @@ University of Layyah
 
 ## License
 
-This project is submitted as a final project for the App Development course under **Ms. Nabiha Komal**, University of Layyah. All rights reserved © 2026 Arisha Khan & Aiman Akbar.
+This project is submitted as a final project for the App Development course under **Ms. Nabiha Komal**, University of Layyah. All rights reserved © 2026 Arisha Khan.
 
 
